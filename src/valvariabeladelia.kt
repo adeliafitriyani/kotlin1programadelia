@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     varVariabel = 78 //assigning first value to varVariabel
     println("Pemeberian nilai kedua pada vaVariabel = " +varVariabel)
     val phi = 3.14
-    phi - 2.5
+    // phi = 2.5
 
 
 }
